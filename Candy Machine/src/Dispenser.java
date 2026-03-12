@@ -35,7 +35,7 @@ public class Dispenser {
 	//Method to show the cost of the item
 	//Postcondition: The value of the instance
 	// variable cost is returned.
-	public int getProductCost()
+	public int getProductCost() 
 	{
 	return cost;
 	}
